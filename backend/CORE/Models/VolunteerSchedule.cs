@@ -5,4 +5,4 @@ public class VolunteerSchedule{
     public string UserId { get; set; }
     public DateTime ScheduledDate{get;set;}
     public int Hours{get;set;}
-}
+}   
